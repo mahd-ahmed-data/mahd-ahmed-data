@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mahd Ahmed 👋
 
-<!--
-**mahd-ahmed-data/mahd-ahmed-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Inventory & Materials Controller (CISCP) based in Dammam, Saudi Arabia, moving into data analytics.
 
-Here are some ideas to get you started:
+## Background
+- 5+ years in inventory and materials control across construction and waterproofing, in Pakistan and Saudi Arabia
+- Currently at Rawabi Holdings, managing inventory on Oracle ERP
+- Built and run 11 inventory tracking systems on a power plant expansion project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm doing here
+I'm documenting my move from inventory control to data analytics: lessons, practice tasks, problems I hit and how I solved them, and real projects built on supply chain data.
+
+## Roadmap
+
+
+## Repositories
+- [inventory-to-data-journey](https://github.com/mahd-ahmed-data/inventory-to-data-journey): daily learning log
+
+## Contact
+LinkedIn: linkedin.com/in/mahddddd-ahmed
