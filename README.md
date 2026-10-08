@@ -1,20 +1,17 @@
 # Hi, I'm Mahd Ahmed 👋
 
-Senior Inventory & Materials Controller (CISCP) based in Dammam, Saudi Arabia, moving into data analytics.
+Data analyst in training with 5+ years of inventory and materials control experience (CISCP), based in Dammam, Saudi Arabia.
 
 ## Background
 - 5+ years in inventory and materials control across construction and waterproofing, in Pakistan and Saudi Arabia
-- Currently at Rawabi Holdings, managing inventory on Oracle ERP
-- Built and run 11 inventory tracking systems on a power plant expansion project
+- Currently working with Oracle ERP, building and managing 11 inventory tracking systems on a power plant expansion project
+- Learning Excel, SQL, Power BI and Python through hands-on projects
 
-## What I'm doing here
-I'm documenting my move from inventory control to data analytics: lessons, practice tasks, problems I hit and how I solved them, and real projects built on supply chain data.
+## Skills I'm building
+Excel and Power Query · SQL (PostgreSQL) · Power BI · Python (pandas) · Statistics · Git
 
-## Roadmap
-
-
-## Repositories
-- [inventory-to-data-journey](https://github.com/mahd-ahmed-data/inventory-to-data-journey): daily learning log
+## Projects
+Coming as I finish them. Each project has its own repository with the problem, data, method and findings.
 
 ## Contact
 LinkedIn: linkedin.com/in/mahddddd-ahmed
