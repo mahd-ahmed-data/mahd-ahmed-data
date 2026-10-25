@@ -14,4 +14,4 @@ Excel and Power Query · SQL (PostgreSQL) · Power BI · Python (pandas) · Stat
 Coming as I finish them. Each project has its own repository with the problem, data, method and findings.
 
 ## Contact
-LinkedIn: linkedin.com/in/mahddddd-ahmed
+LinkedIn: linkedin.com/in/mahd-ahmed
